@@ -1,0 +1,11 @@
+.ocultar-barra {
+    overflow:hidden !important;
+}
+.navegador{
+    position:absolute;
+    width:100%;
+    height:100%;
+}
+.dark{
+ background-color: #2A2D2E;
+}
